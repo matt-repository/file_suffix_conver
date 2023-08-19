@@ -1,2 +1,17 @@
-# filenameconver
-批量转换后缀，如md 文件转换为html。jpg批量转换为 png
+
+
+
+# file suffix conver
+### Thanks for you,give a star . 💕💕
+
+
+### for example
+
+```
+$ fsc_linux  -path 'd:\images' -old .png -new .jpg 
+$ fsc_windows.exe  -path 'd:\images' -old .png -new .jpg 
+$ fsc_mac  -path 'd:\images' -old .png -new .jpg 
+```
+
+
+
