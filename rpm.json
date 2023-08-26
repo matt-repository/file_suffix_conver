@@ -1,0 +1,18 @@
+{
+    "name": "fsc",
+    "version": "!version!",
+    "release": "release",
+    "arch": "amd64",
+    "summary": "file suffix conver",
+    "description": "file suffix conver",
+    "license": "fengqin.link",
+    "url": "fengqin.link",
+    "files": [
+        {
+            "from": "./bin/fsc",
+            "to": "/usr/local",
+            "base": "",
+            "type": ""
+        }
+    ]
+}
